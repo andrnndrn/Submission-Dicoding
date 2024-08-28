@@ -590,7 +590,8 @@ html.darkmode a:hover {
   ul.active {
     display: block;
     background-color: #ffffff;
-    box-shadow: 2px 4px 12px #ededee;
+/*     box-shadow: 2px 4px 12px #ededee; */
+    border-left: 2px solid #ededee;
     padding-bottom: 1rem;
   }
 
