@@ -548,7 +548,7 @@ html.darkmode a:hover {
 
 /* For mobile devices */
 @media only screen and (max-width: 768px) {
-  
+
   html.darkmode header.active {
     border: none;
   }
@@ -701,6 +701,7 @@ html.darkmode a:hover {
     align-self: center;
   }
 }
+
 
 /* For ultra-small devices */
 @media (max-width: 375px) {
